@@ -1,6 +1,7 @@
 # Fault Tree Analysis & Bayesian Networks
 
-This project is a basic implementation of **Fault Tree Analysis** and **Bayesian Networks** using Python. The main purpose is to test, comprehend, and simulate probabilistic scenarios using the `pyAgruM` library. (**Also starting to comprehend Python**)
+This project is a basic implementation of **Fault Tree Analysis** and **Bayesian Networks** using Python. The main purpose is to test, comprehend, and simulate probabilistic scenarios using the `pyAgruM` library. 
+
 
 ## Problems Solved
 
